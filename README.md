@@ -2,7 +2,7 @@
 
 > Do terminal ao primeiro push, de forma prática, visual e direta.
 
-Uma aula interativa, 100% gratuita e open-source, para quem está começando do absoluto zero. Sem jargões, sem ` --global`, direto ao ponto.
+Uma aula interativa, 100% gratuita e open-source, para quem está começando do absoluto zero.
 
 **[👉 Acesse a aula ao vivo aqui](https://marcosmdms.github.io/git-e-github/)** 
 
