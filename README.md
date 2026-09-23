@@ -4,7 +4,7 @@
 
 Uma aula interativa, 100% gratuita e open-source, para quem está começando do absoluto zero. Sem jargões, sem ` --global`, direto ao ponto.
 
-**[👉 Acesse a aula ao vivo aqui](https://seu-usuario.github.io/aula-git-github/)** _(troque pelo seu link do GitHub Pages)_
+**[👉 Acesse a aula ao vivo aqui](https://marcosmdms.github.io/git-e-github/)** 
 
 ---
 
