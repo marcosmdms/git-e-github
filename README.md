@@ -37,6 +37,6 @@ Cada módulo inclui:
 
 Ou clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/aula-git-github.git
+git clone https://github.com/marcosmdms/aula-git-github.git
 cd aula-git-github
 # abra o index.html no navegador
